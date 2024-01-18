@@ -1,7 +1,7 @@
 # 💫 About Me:
 I am a cautious and methodical person, who cares about addressing issues in an organized and orderly manner. I have an affinity for structure and am effective in finding the most efficient and effective ways to achieve a goal. I have an analytical nature and a patient and thoughtful attitude, which together give me strong planning skills.
 
-I have always been passionate about the technological world, creating a system and seeing it work, as well as the endless possibilities that exist in this field. I specialize primarily in backend development, in creating REST APIs, with knowledge in Express, Node, Sequelize, PostgreSQL, but always looking to learn more.
+I have always been passionate about the technological world, creating a system and seeing it work, as well as the endless possibilities that exist in this field. I specialize primarily in backend development, in creating REST APIs, with knowledge in Express, Node, Sequelize, PostgreSQL, .NET Core, but always looking to learn more.
 
 
 ## 🌐 Socials:
